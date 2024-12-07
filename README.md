@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Mohamned Mostafa, Backend Developer 🚀 from Egypt
+Hi, I'm Mohammed Mostafa, Backend Developer 🚀 from Egypt
 
 - 🐱‍🏍 Co-Founder of Tec Youth ,
 - 📫 You can reach me on : mohammedmostafafathi@gmail.com
