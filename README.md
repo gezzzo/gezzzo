@@ -37,16 +37,16 @@ Results-driven Software Engineer with 4+ years of experience building full-stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:mohammedmostafafathi@gmail.com" target="blank">
+  <a href="mailto:mohammedmostafafathi@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
-  <a href="https://github.com/gezzzo" target="blank">
+  <a href="https://github.com/gezzzo" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
   </a>
-    <a href="https://www.linkedin.com/in/mohamed-mostafa-9b1a4b1b2/" target="blank">
+    <a href="https://www.linkedin.com/in/mohammedmostfa/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
     </a>
-    <a href="https://www.kaggle.com/mohamedmostafa" target="blank">
+    <a href="https://www.facebook.com/m7medmostfa" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="kaggle" height="30" width="40" />
     </a>
 
