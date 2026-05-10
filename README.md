@@ -9,16 +9,16 @@ Results-driven Software Engineer with 4+ years of experience building full-stack
 </p>
 
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="laravel" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="laravel" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" />
+</p>
 
 <br>
 
@@ -37,19 +37,17 @@ Results-driven Software Engineer with 4+ years of experience building full-stack
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mohammedmostafafathi@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" />
   </a>
   <a href="https://github.com/gezzzo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" />
   </a>
-    <a href="https://www.linkedin.com/in/mohammedmostfa/" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/m7medmostfa" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="kaggle" height="30" width="40" />
-    </a>
-
-
+  <a href="https://www.linkedin.com/in/mohammedmostfa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" />
+  </a>
+  <a href="https://www.facebook.com/m7medmostfa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" />
+  </a>
 </p>
 
 <br>
