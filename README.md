@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Mostafa</h1>
-<h3 align="center">Software Engineer | Full-Stack & Backend Developer |  Climate Science MSc @unibo</h3>
+<h3 align="center">Software Engineer | AI & Data Science Researcher |  Climate Science MSc @unibo</h3>
 <p align="center">
 Results-driven Software Engineer with 4+ years of experience building full-stack applications, backend systems, cloud-native deployments, and data-driven solutions. I enjoy turning business needs into scalable products, automating workflows, and working across the full development lifecycle from APIs and infrastructure to analytics and deployment.
 </p>
