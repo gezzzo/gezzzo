@@ -94,7 +94,7 @@ Results-driven Software Engineer with 4+ years of experience building full-stack
 
 <h3 align="left">Education:</h3>
 
-- **Master's Degree in Climate Science** — University of Bologna *(2024 – Present)*
+- **Master's Degree in Climate Science** — University of Bologna *(2024 – 2026)*
 - **Bachelor's Degree in Computers and Information** — Assiut University *(2018 – 2022)*
 
 <br>
